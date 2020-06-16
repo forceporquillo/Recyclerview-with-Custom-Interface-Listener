@@ -7,6 +7,9 @@ Don't
 Repeat
 Yourself.
 
+Full and detailed explanation are in Stackoverflow answer.
+
+[Want to link my listview with text in Android Studio](https://stackoverflow.com/a/62350745/11445765)
 
 
 
